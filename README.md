@@ -1,4 +1,4 @@
-# Hi there, I'm OpsecAdmin👋
+# Hi there, I'm OpSecAdmin 👋
 
 **Aspiring Full-Stack Developer & Cybersecurity Enthusiast** from Bulacan, Philippines.
 
