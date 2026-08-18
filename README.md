@@ -1,6 +1,6 @@
-# Hi there, I'm Ken Dev 👋
+# Hi there, I'm OpAdmin👋
 
-**Aspiring Full-Stack Developer & Cybersecurity Enthusiast** from Bulacan, Philippines.
+** Full-Stack Developer & Cybersecurity Enthusiast** from Bulacan, Philippines.
 
 I'm currently building a strong foundation in web development, backend systems, databases, and ethical cybersecurity practices. Passionate about continuous learning and sharing knowledge through structured notes and mini-courses.
 
