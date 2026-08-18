@@ -1,6 +1,6 @@
-# Hi there, I'm OpAdmin👋
+# Hi there, I'm Ken Dev 👋
 
-** Full-Stack Developer & Cybersecurity Enthusiast** from Bulacan, Philippines.
+**Aspiring Full-Stack Developer & Cybersecurity Enthusiast** from Bulacan, Philippines.
 
 I'm currently building a strong foundation in web development, backend systems, databases, and ethical cybersecurity practices. Passionate about continuous learning and sharing knowledge through structured notes and mini-courses.
 
@@ -23,6 +23,7 @@ I'm currently building a strong foundation in web development, backend systems, 
 | [database-fundamentals](https://github.com/kenjieagbu227-dotcom/database-fundamentals) | SQL, NoSQL, CRUD & database design |
 | [-backend-basics](https://github.com/kenjieagbu227-dotcom/-backend-basics) | Backend concepts with Node.js & Express |
 | [cyber-security-full-course](https://github.com/kenjieagbu227-dotcom/cyber-security-full-course) | Structured cybersecurity learning path |
+| [facebook-account-recovery-guide](https://github.com/kenjieagbu227-dotcom/facebook-account-recovery-guide) | Complete legitimate Facebook / Meta account recovery guide |
 
 ---
 
