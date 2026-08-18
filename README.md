@@ -26,6 +26,11 @@ I'm currently building a strong foundation in web development, backend systems, 
 | [-backend-basics](https://github.com/kenjieagbu227-dotcom/-backend-basics) | Backend concepts with Node.js & Express |
 | [cyber-security-full-course](https://github.com/kenjieagbu227-dotcom/cyber-security-full-course) | Structured cybersecurity learning path |
 | [facebook-account-recovery-guide](https://github.com/kenjieagbu227-dotcom/facebook-account-recovery-guide) | Complete legitimate Facebook / Meta account recovery guide |
+| [cybersecurity-awareness](https://github.com/kenjieagbu227-dotcom/cybersecurity-awareness) | 01 — Basic cybersecurity awareness for beginners |
+| [ethical-hacking-guide](https://github.com/kenjieagbu227-dotcom/ethical-hacking-guide) | 02 — Ethical hacking methodology & authorized testing |
+| [web-security-guide](https://github.com/kenjieagbu227-dotcom/web-security-guide) | 03 — Web application security & OWASP Top 10 |
+| [network-security-guide](https://github.com/kenjieagbu227-dotcom/network-security-guide) | 04 — Network security, protocols & defensive practices |
+| [linux-security-guide](https://github.com/kenjieagbu227-dotcom/linux-security-guide) | 05 — Linux hardening, permissions & system security |
 
 ---
 
