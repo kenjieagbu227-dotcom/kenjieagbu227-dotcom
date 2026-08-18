@@ -12,6 +12,8 @@ I'm currently building a strong foundation in web development, backend systems, 
 - **Backend** → Node.js, Express, REST APIs
 - **Databases** → MySQL, MongoDB, Database Design
 - **Cybersecurity** → Network Security, Ethical Hacking Fundamentals, Defensive Practices
+- **Version Control** → Git & GitHub
+- **Security Awareness** → Account Protection, Social Engineering, Safe Recovery Practices
 
 ---
 
